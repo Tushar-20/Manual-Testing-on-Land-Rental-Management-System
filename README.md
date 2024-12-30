@@ -58,10 +58,3 @@ We welcome contributions to improve and expand the test cases. Follow these step
 2. **Make Changes**: Update or add new test cases in the `Land Rental Management System.xlsx` file.
 3. **Submit a Pull Request**: Describe your changes and submit a pull request for review.
 
-## License
-
-This repository is available under the [MIT License](LICENSE).
-
----
-
-For any issues or suggestions, feel free to create an [issue](https://github.com/your-repository/issues).
